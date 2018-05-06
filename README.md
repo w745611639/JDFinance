@@ -5,7 +5,7 @@
 ----
 ```
 #  请输入如下地址进行体验
-https://w745611639.github.io/JDFinance/
+<a href="https://w745611639.github.io/JDFinance/" target="_blank">https://w745611639.github.io/JDFinance/</a>
 ```
 
 
